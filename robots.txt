@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://northwestshortstaymanagement.com.au/sitemap.xml
